@@ -6,7 +6,10 @@ Site pessoal de Pedro Artur, Analista de Dados com foco em SQL e Python. Reúne 
 
 Abra `index.html` no navegador ou sirva a pasta com um servidor HTTP estático. O site não precisa de instalação nem de etapa de build.
 
-## Publicar na Vercel
+## Site publicado
 
-Importe este repositório na Vercel com **Framework Preset: Other**, sem comando de build, e use a raiz do repositório como diretório de saída. Novos commits na branch `main` podem gerar atualizações automáticas após conectar o GitHub.
+[Acessar o portfólio](https://portfolio-pedro-artur.vercel.app/)
+
+O repositório está conectado à Vercel como site estático, com **Framework Preset: Other**, sem comando de build e com a raiz como diretório de saída. Novos commits na branch `main` geram atualizações automáticas.
+
 
