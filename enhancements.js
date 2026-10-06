@@ -41,7 +41,7 @@ translateGroup('.timeline-body>ul:not(.tags) li', [
   'Created and ran simulated conversation tests to identify failures and refine prompts, response consistency, tool use and compliance with business rules.',
   'Applied Kanban and created an architecture diagram to give the manager visibility into priorities, blockers and deliveries, as well as the support workflows and planned integrations.'
 ]);
-translateGroup('.timeline-body .tags', ['<li>SQL</li><li>Data quality</li><li>Power Automate</li><li>Generative AI</li>','<li>n8n</li><li>AI agents</li><li>Kanban</li><li>Supabase (planned)</li>']);
+translateGroup('.timeline-body .tags', ['<li>SQL</li><li>Data quality</li><li>Power Automate</li><li>Generative AI</li>','<li>n8n</li><li>AI agents</li><li>Kanban</li><li>Supabase</li>']);
 translateGroup('#projects-title', ['DATA, CODE<br><span class="outlined">IN PRACTICE.</span>']);
 translateGroup('.projects .section-heading>p', ['Five projects focused on data preparation, modeling, analytical applications and validation. Explore the implementations and source code.']);
 translateGroup('.project-topline span:first-child', ['PYTHON / FEATURED PROJECT','WEB BI &amp; AUTOMATION','SALES &amp; CONVERSION','BUSINESS INTELLIGENCE','HEALTH DATA']);
