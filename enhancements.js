@@ -73,7 +73,7 @@ translateGroup('#tools-title', ['SKILLS &amp; TOOLS']);
 translateGroup('.skill-cloud-group h3', ['Skills','Tools','Languages']);
 translateGroup('.skill-cloud-group .large-tags', [
   '<li>Python</li><li>SQL</li><li>Pandas</li><li>NumPy</li><li>PostgreSQL</li><li>MySQL</li><li>DAX</li><li>Power Query</li><li>RLS</li><li>Generative AI</li>',
-  '<li>Power BI</li><li>Streamlit</li><li>Plotly</li><li>Advanced Excel</li><li>GitHub Actions</li><li>Power Automate</li><li>Power Apps</li>',
+  '<li>Power BI</li><li>Streamlit</li><li>Plotly</li><li>Advanced Excel</li><li>GitHub Actions</li><li>Power Automate</li><li>n8n</li><li>Power Apps</li>',
   '<li>Portuguese · Native</li><li>English · Intermediate (B2)</li>'
 ]);
 translateGroup('#education-title', ['ALWAYS<br>LEARNING<span>.</span>']);
