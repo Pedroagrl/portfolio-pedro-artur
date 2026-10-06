@@ -23,10 +23,10 @@ translateGroup('.section-index', ['01 / EXPERIENCE','02 / PROJECTS','03 / EXPERT
 translateGroup('#experience-title', ['EXPERIENCE<span class="heading-dot">.</span>']);
 translateGroup('.experience .section-heading>p', ['Data, code and automation applied to real problems.']);
 translateGroup('.timeline-company h3', ['Grupo Energisa','Freelance']);
-translateGroup('.timeline-company p', ['Eusébio, Brazil','Cardiology Clinic']);
-translateGroup('.date-tag', ['JUN 2026 — PRESENT','DEC 2025 — JAN 2026']);
-translateGroup('.current-label', ['CURRENT ROLE']);
-translateGroup('.timeline-body h3', ['Data Intern','Data Analyst']);
+translateGroup('.timeline-company p', ['Eusébio, Brazil','Dr. Jéssica Tavares Clinic']);
+translateGroup('.date-tag', ['JUN 2026 — PRESENT','OCT 2026 — PRESENT']);
+translateGroup('.current-label', ['CURRENT ROLE','PROJECT IN DEVELOPMENT']);
+translateGroup('.timeline-body h3', ['Data Intern','Automation &amp; AI Developer']);
 translateGroup('.timeline-body>ul:not(.tags) li', [
   'Served as the first data professional at Grupo Energisa’s Eusébio unit, building its analytical ecosystem from the ground up.',
   'Contributed directly to July 2026 becoming the best month of the year, with portfolio growth of 35% compared with June.',
@@ -35,13 +35,13 @@ translateGroup('.timeline-body>ul:not(.tags) li', [
   'Built a Power Apps application to improve the sales team’s funnel and sales performance.',
   'Developed strategic dashboards that turned operational data into accessible visualizations for technical and nontechnical stakeholders.',
   'Designed and implemented an LLM based multiagent system to support analytics operations, with specialized agents and separated responsibilities.',
-  'Hired as a freelancer to structure and analyze clinical data related to cardiovascular risk, delivering BI solutions for healthcare.',
-  'Cleaned and modeled clinical datasets including ECG results, cardiac perfusion and physiological indicators, ensuring analytical reliability for the clinic’s internal use.',
-  'Developed a Power BI dashboard to visualize patterns across symptoms, diagnostic exams and cardiovascular risk scenarios.',
-  'Identified critical patterns, including asymptomatic cases with abnormal exam results, helping the team prioritize clinical assessments.',
-  'Structured indicators and visualizations that made the data easier to interpret for healthcare professionals without a data background.'
+  'Developing an AI agent in n8n for an aesthetic clinic’s commercial support, including lead qualification, service queries and negotiation rules.',
+  'Structured contact, opportunity and offer datasets in n8n Data Tables for agent development and testing, with a planned migration to Supabase for production.',
+  'Planning a web dashboard and data architecture with Supabase to manage the sales funnel, leads, payments, appointments and pending items, including reservations, confirmations and handoff between AI and the human team.',
+  'Created and ran simulated conversation tests to identify failures and refine prompts, response consistency, tool use and compliance with business rules.',
+  'Applied Kanban and created an architecture diagram to give the manager visibility into priorities, blockers and deliveries, as well as the support workflows and planned integrations.'
 ]);
-translateGroup('.timeline-body .tags', ['<li>SQL</li><li>Data quality</li><li>Power Automate</li><li>Generative AI</li>','<li>Power BI</li><li>Data preparation</li><li>Visualization</li>']);
+translateGroup('.timeline-body .tags', ['<li>SQL</li><li>Data quality</li><li>Power Automate</li><li>Generative AI</li>','<li>n8n</li><li>AI agents</li><li>Kanban</li><li>Supabase (planned)</li>']);
 translateGroup('#projects-title', ['DATA, CODE<br><span class="outlined">IN PRACTICE.</span>']);
 translateGroup('.projects .section-heading>p', ['Five projects focused on data preparation, modeling, analytical applications and validation. Explore the implementations and source code.']);
 translateGroup('.project-topline span:first-child', ['PYTHON / FEATURED PROJECT','WEB BI &amp; AUTOMATION','SALES &amp; CONVERSION','BUSINESS INTELLIGENCE','HEALTH DATA']);
