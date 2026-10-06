@@ -24,7 +24,7 @@ translateGroup('#experience-title', ['EXPERIENCE<span class="heading-dot">.</spa
 translateGroup('.experience .section-heading>p', ['Data, code and automation applied to real problems.']);
 translateGroup('.timeline-company h3', ['Grupo Energisa','Freelance']);
 translateGroup('.timeline-company p', ['Eusébio, Brazil','Dr. Jéssica Tavares Clinic']);
-translateGroup('.date-tag', ['JUN 2026 — PRESENT','OCT 2026 — PRESENT']);
+translateGroup('.date-tag', ['JUN 2026 — PRESENT','SEP 2026 — PRESENT']);
 translateGroup('.current-label', ['CURRENT ROLE','PROJECT IN DEVELOPMENT']);
 translateGroup('.timeline-body h3', ['Data Intern','Automation &amp; AI Developer']);
 translateGroup('.timeline-body>ul:not(.tags) li', [
